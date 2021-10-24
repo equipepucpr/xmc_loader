@@ -1,0 +1,11 @@
+AppCompatibilitySet=1
+DEVICE_DESC=Package\= VQFN40  \nROM\= 128 KB Flash  \nRAM\= 16 KB RAM  \nInOut\= 35 digital I/O  \nADC\= 12 ADC Channels, 12-bit,  Analog-to-Digital Converter  \nTimed_InOut\= 10 Timer, 20 CAPCOM channels  \nSerial\= 2 USIC channels  \nSHS\= 2 Sample and Hold Sequencer  \nCOMP\= Comparator Control Unit  \nPOSIF\= Position Interface Unit  \nBCCU\= Brightness and Color Control Unit  \nMATH\= MATH Coprocessor  \n
+DEVICE_NAME=XMC1302-Q040x0128
+DEVICE_PACKAGE=VQFN40
+DEVICE_PACK_VERSION=2.2.12
+DEVICE_PATH=/DeviceRoot/Microcontrollers/XMC1000/XMC1300 Series/XMC1302-Q040x0128
+FLASH_SIZE=128
+SOFTWARE_ID=XMC1.3.02.Q040.ALL
+TEMPLATE_CODEGEN_DEBUG=disable
+USED_DAVE_VERSIONS=4.4.2
+eclipse.preferences.version=1
